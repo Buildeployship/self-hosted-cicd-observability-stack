@@ -1,6 +1,6 @@
 # Self-Hosted CI/CD & Observability Stack
 
-Infrastructure-as-code and documentation for a self-hosted CI/CD pipeline and full observability stack running on Arch Linux.
+Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline and full observability stack running on Arch Linux.
 
 
 ## About
@@ -32,16 +32,3 @@ This project documents the design, configuration, and operation of a homelab CI/
 - **Tailscale** — Mesh VPN for secure remote access
 - **HashiCorp Consul** — Service discovery
 - **HashiCorp Nomad** — Workload orchestration
-
-
-## Host
-
-- Arch Linux (daily driver)
-- 128GB RAM
-- 64TB encrypted storage
-- Docker containerization for all services
-
-
-## Author
-
-**Buildeployship**
