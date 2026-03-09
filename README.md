@@ -85,8 +85,8 @@ This project documents the design, configuration, and operation of a homelab CI/
 │  │  GITLAB RUNNER      │  │  CI/CD VARIABLES           │ │
 │  │                     │  │                            │ │
 │  │  Executor: Docker   │  │  GITHUB_TOKEN              │ │
-│  │  Image: alpine      │  │  ✓ Masked                  │ │
-│  │  Tags: docker,      │  │  ✓ Protected               │ │
+│  │  Image: alpine      │  │  ✓ Masked                 │ │
+│  │  Tags: docker,      │  │  ✓ Protected              │ │
 │  │        homelab      │  │                            │ │
 │  └─────────────────────┘  └────────────────────────────┘ │
 │                                                          │
